@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner-left-bottom {
+    display: flex;
+    justify-content: space-around;
+}
+
+#additional_info {
+    display: flex;
+    align-items: space-between;
+}
